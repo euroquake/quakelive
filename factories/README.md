@@ -3,7 +3,7 @@
 🔽 Go to [Instagib FreezeTag](https://github.com/euroquake/quakelive/tree/main/factories#instagib-freezeTag)  
 🔽 Go to [Instagib Domination](https://github.com/euroquake/quakelive/tree/main/factories#instagib-domination)  
 
-### Instagib Capture The Flag
+### Instagib Capture the Flag
 #### Raw Factory
 ```
 "capturelimit": "8",
