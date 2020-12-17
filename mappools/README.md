@@ -7,7 +7,7 @@
 - Clan Arena Competitive Default
 - iDom Arcade Default
 
-🔗 Mappool File: https://github.com/euroquake/quakelive/blob/main/mappools/mappool.txt
+📄 [mappool.txt](https://github.com/euroquake/quakelive/blob/main/mappools/mappool.txt)
 
 ### Steam Workshop
 ```
@@ -23,4 +23,4 @@
 660785987 ; Iron and Stone - jaxdm8
 585781036 ; Cynosure - psidm7
 ```
-🔗 Workshop File: https://github.com/euroquake/quakelive/blob/main/mappools/workshop.txt  
+📄 [workshop.txt](https://github.com/euroquake/quakelive/blob/main/mappools/workshop.txt)
