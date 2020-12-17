@@ -4,8 +4,9 @@
 - iFT Competitive Default
 - iFT Competitive Workshop
 - Clan Arena Competitive Default
-- iDom Arcade Default  
-🔗 Mappool File: https://github.com/euroquake/quakelive/blob/main/mappools/mappool.txt  
+- iDom Arcade Default
+
+🔗 Mappool File: https://github.com/euroquake/quakelive/blob/main/mappools/mappool.txt
 
 ### Steam Workshop
 ```# ICTF
