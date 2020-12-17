@@ -1,0 +1,81 @@
+[
+    {
+        "id": "eqictf",
+        "title": "euroQuake iCTF",
+        "author": "euroQuake",
+        "description": "euroQuake instagib Capture the Flag",
+        "basegt": "ctf",
+        "tags": ["euroquake"],
+        "cvars": {
+            "capturelimit": "8",
+            "dmflags": "28",
+            "g_allowKill": "1",
+            "g_dropCmds": "1",
+            "g_instaGib": "1",
+            "g_loadout": "0",
+            "g_overtime": "0",
+            "g_startingWeapons": "65",
+            "g_suddenDeathRespawn": "1",
+            "g_timeoutCount": "3",
+            "g_timeoutLen": "300",
+            "sv_warmupReadyPercentage": "1",
+            "teamsize": "4",
+            "timelimit": "20"
+        }
+    },
+    {
+        "id": "eqift",
+        "title": "euroQuake iFT",
+        "author": "euroQuake",
+        "description": "euroQuake instagib Freeze Tag",
+        "basegt": "ft",
+        "tags": ["euroquake"],
+        "cvars": {
+            "dmflags": "28",
+            "g_allowKill": "1",
+            "g_dropCmds": "0",
+            "g_freezeEnvironmentalRespawnDelay": "3000",
+            "g_freezeProtectedSpawnTime": "2000",
+            "g_freezeRoundDelay": "0",
+            "g_freezeThawThroughSurface": "0",
+            "g_freezeThawTick": "1",
+            "g_instaGib": "1",
+            "g_loadout": "0",
+            "g_overtime": "120",
+            "g_railjump": "670",
+            "g_startingWeapons": "65",
+            "g_suddenDeathRespawn": "1",
+            "g_timeoutCount": "3",
+            "g_timeoutLen": "300",
+            "roundlimit": "20",
+            "roundtimelimit": "0",
+            "sv_warmupReadyPercentage": "1",
+            "teamsize": "4",
+            "timelimit": "20"
+        }
+    },
+    {
+        "id": "eqidom",
+        "title": "euroQuake iDom",
+        "author": "euroQuake",
+        "description": "euroQuake instagib Domination",
+        "basegt": "dom",
+        "tags": ["euroQuake"],
+        "cvars": {
+            "dmflags": "28",
+            "g_allowKill": "1",
+            "g_dropCmds": "0",
+            "g_instagib": "1",
+            "g_overtime": "120",
+            "g_startingWeapons": "65",
+            "g_suddenDeathRespawn": "1",
+            "g_timeoutCount": "3",
+            "g_timeoutLen": "300",
+            "loadout": "0",
+            "scorelimit": "150",
+            "sv_warmupReadyPercentage": "1",
+            "teamsize": "4",
+            "timelimit": "20"
+        }
+    }
+]
