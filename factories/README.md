@@ -1,7 +1,7 @@
 # 🔱 euroQuake Quake Live Factories
-🔽 Go to [Instagib Capture the Flag](https://github.com/euroquake/quakelive/factories#instagib-capture-the-flag)  
-🔽 Go to [Instagib FreezeTag](https://github.com/euroquake/quakelive/factories#instagib-freezeTag)  
-🔽 Go to [Instagib Domination](https://github.com/euroquake/quakelive/factories#instagib-domination)  
+🔽 Go to [Instagib Capture the Flag](https://github.com/euroquake/quakelive/tree/main/factories#instagib-capture-the-flag)  
+🔽 Go to [Instagib FreezeTag](https://github.com/euroquake/quakelive/tree/main/factories#instagib-freezeTag)  
+🔽 Go to [Instagib Domination](https://github.com/euroquake/quakelive/tree/main/factories#instagib-domination)  
 
 ### Instagib Capture The Flag
 #### Raw Factory
@@ -26,15 +26,15 @@
 | :--- | :---: | :---: | :--- |
 | `capturelimit` | 8 | 8 | Amount of captures needed win the match |
 | `dmflags` | 0 | 28 | Server side flags to control splash/falling-damage |
-| | | | 🔽 Go to [dmflags](https://github.com/euroquake/quakelive/factories#dmflags) info |
+| | | | 🔽 Go to [dmflags](https://github.com/euroquake/quakelive/tree/main/factories#dmflags) info |
 | `g_allowKill` | 0 | 1 | Toggle usage of the ‘kill’ command in a server |
 | `g_dropCmds` | 7 | 1 | Enables the dropping of items |
-| | | | 🔽 Go to [g_dropCmds](https://github.com/euroquake/quakelive/factories#g_dropcmds) info |
+| | | | 🔽 Go to [g_dropCmds](https://github.com/euroquake/quakelive/tree/main/factories#g_dropcmds) info |
 | `g_instaGib` | 0 | 1 | Toggle instagib railguns-only |
 | `g_loadout` | 1 | 0 | Toggle loadout selection before spawning |
 | `g_overtime` | 120 | 0 | Duration of the overtime periods in seconds |
 | `g_startingWeapons` | 3 | 65 | Set the starting weapons |
-| | | | 🔽 Go to [g_startingWeapons](https://github.com/euroquake/quakelive/factories#g_startingweapons) info |
+| | | | 🔽 Go to [g_startingWeapons](https://github.com/euroquake/quakelive/tree/main/factories#g_startingweapons) info |
 | `g_suddenDeathRespawn` | 0 | 1 | Toggle respawn delay when matches enter sudden death |
 | `g_timeoutCount` | 3 | 3 | Number of timeouts per team per match |
 | `g_timeoutLen` | 120 | 300 | Duration of timeouts in seconds |
@@ -42,7 +42,7 @@
 | `teamsize` | 0 | 4 | Maximum team size |
 | `timelimit` | 0 | 20 | Time limit in minutes |
 
-🔼 Go to [top](https://github.com/euroquake/quakelive/factories#top)  
+🔼 Go to [top](https://github.com/euroquake/quakelive/tree/main/factories#top)  
 
 ### Instagib FreezeTag
 #### Raw Factory
@@ -73,10 +73,10 @@
 | Entry Command | QL Value | eQ Value | Description |
 | :--- | :---: | :---: | :--- |
 | `dmflags` | 0 | 28 | Server side flags to control splash/falling-damage |
-| | | | 🔽 Go to [dmflags](https://github.com/euroquake/quakelive/factories#dmflags) info |
+| | | | 🔽 Go to [dmflags](https://github.com/euroquake/quakelive/tree/main/factories#dmflags) info |
 | `g_allowKill` | 0 | 1 | Toggle usage of the ‘kill’ command in a server |
 | `g_dropCmds` | 7 | 0 | Enables the dropping of items |
-| | | | 🔽 Go to [g_dropCmds](https://github.com/euroquake/quakelive/factories#g_dropcmds) info |
+| | | | 🔽 Go to [g_dropCmds](https://github.com/euroquake/quakelive/tree/main/factories#g_dropcmds) info |
 | `g_freezeEnvironmentalRespawnDelay` | 0 | 3000 | Respaw time after being frozen by lava and other hazards in milliseconds |
 | `g_freezeProtectedSpawnTime` | 0 | 2000 | Spawn protection in milliseconds |
 | `g_freezeRoundDelay` | 4000 | 0 | Delay between rounds in milliseconds |
@@ -87,7 +87,7 @@
 | `g_overtime` | 120 | 0 | Duration of the overtime periods in seconds |
 | `g_railjump` | 0 | 670 | Value will enable railjump (value as ups power) |
 | `g_startingWeapons` | 3 | 65 | Set the starting weapons |
-| | | | 🔽 Go to [g_startingWeapons](https://github.com/euroquake/quakelive/factories#g_startingweapons) info |
+| | | | 🔽 Go to [g_startingWeapons](https://github.com/euroquake/quakelive/tree/main/factories#g_startingweapons) info |
 | `g_suddenDeathRespawn` | 0 | 1 | Toggle respawn delay when matches enter sudden death |
 | `g_timeoutCount` | 3 | 3 | Number of timeouts per team per match |
 | `g_timeoutLen` | 120 | 300 | Duration timeouts in seconds |
@@ -97,7 +97,7 @@
 | `teamsize` | 0 | 4 | Maximum team size |
 | `timelimit` | 0 | 20 | Time limit in minutes |
 
-🔼 Go to [top](https://github.com/euroquake/quakelive/factories#top)  
+🔼 Go to [top](https://github.com/euroquake/quakelive/tree/main/factories#top)  
 
 ### Instagib Domination
 #### Raw Factory
@@ -121,13 +121,13 @@
 | Entry Command | QL Value | eQ Value | Description |
 | :--- | :---: | :---: | :--- |
 | `dmflags` | 0 | 28 | Server side flags to control splash/falling-damage |
-| | | | 🔽 Go to [dmflags](https://github.com/euroquake/quakelive/factories#dmflags) info |
+| | | | 🔽 Go to [dmflags](https://github.com/euroquake/quakelive/tree/main/factories#dmflags) info |
 | `g_allowKill` | 0 | 1 | Toggle usage of the ‘kill’ command in a server |
 | `g_dropCmds` | 7 | 0 | Enables the dropping of items |
 | `g_instaGib` | 0 | 1 | Toggle instagib railguns-only |
 | `g_overtime` | 120 | 0 | Duration of the overtime periods in seconds |
 | `g_startingWeapons` | 3 | 65 | Set the starting weapons |
-| | | | 🔽 Go to [g_startingWeapons](https://github.com/euroquake/quakelive/factories#g_startingweapons) info |
+| | | | 🔽 Go to [g_startingWeapons](https://github.com/euroquake/quakelive/tree/main/factories#g_startingweapons) info |
 | `g_suddenDeathRespawn` | 0 | 1 | Toggle respawn delay when matches enter sudden death |
 | `g_timeoutCount` | 3 | 3 | Number of timeouts per team per match |
 | `g_timeoutLen` | 120 | 300 | Duration of timeouts in seconds |
@@ -137,7 +137,7 @@
 | `teamsize` | 0 | 4 | Maximum team size |
 | `timelimit` | 0 | 20 | Time limit in minutes |
 
-🔼 Go to [top](https://github.com/euroquake/factories#top)  
+🔼 Go to [top](https://github.com/euroquake/tree/main/factories#top)  
 
 
 ### Additional Entry Command Info
@@ -175,4 +175,4 @@ All Weapons = 8191. All Weapons minus Grapple = 7679.
 * 8192 = Map Default Weapons
 
 
-🔼 Go to [top](https://github.com/euroquake/quakelive/factories#top)  
+🔼 Go to [top](https://github.com/euroquake/quakelive/tree/main/factories#top)  
