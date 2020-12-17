@@ -1,0 +1,76 @@
+# iCTF Competitive Default
+coldcathode|eqictf
+consequence|eqictf
+courtyard|eqictf
+cursed|eqictf
+gospelcrossings|eqictf
+infinity|eqictf
+ironworks|eqictf
+japanesecastles|eqictf
+shiningforces|eqictf
+siberia|eqictf
+spidercrossings|eqictf
+
+# iCTF Competitive Workshop
+mkbase|eqictf ; Feel the Base
+push|eqictf ; Push
+cmpctf2|eqictf ; Gothic Block
+consequence|eqictf ; Consequence
+
+# iFT Competitive Default
+almostlost|eqift
+campgrounds|eqift
+deepinside|eqift
+grimdungeons|eqift
+hiddenfortress|eqift
+limbus|eqift
+lostworld|eqift
+retribution|eqift
+theedge|eqift
+
+# iFT Competitive Workshop
+cpm8|eqift ; Clowning Around
+fr3dm1|eqift ; Iron Yard
+jaxdm8|eqift ; Iron and Stone
+psidm7|eqift ; Cynosure
+
+# Clan Arena Competitive Default
+asylum|ca
+campgrounds|ca
+hiddenfortress|ca
+monastery|ca
+overkill|ca
+quarantine|ca
+repent|ca
+servitude|ca
+theatreofpain|ca
+trinity|ca
+
+# iDom Arcade Default
+blackcathedral|eqidom
+brimstoneabbey|eqidom
+chemicalreaction|eqidom
+corrosion|eqidom
+courtyard|eqidom
+foolishlegacy|eqidom
+intervention|eqidom
+leviathan|eqidom
+arcanecitadel|eqidom
+coldwar|eqidom
+deepinside|eqidom
+devilish|eqidom
+dreadfulplace|eqidom
+dredwerkz|eqidom
+leftbehind|eqidom
+limbus|eqidom
+overkill|eqidom
+purgatory|eqidom
+quarantine|eqidom
+ragnarok|eqidom
+realmofsteelrats|eqidom
+retribution|eqidom
+servitude|eqidom
+theedge|eqidom
+tornado|eqidom
+trinity|eqidom
+zen|eqidom
