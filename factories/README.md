@@ -137,7 +137,7 @@
 | `teamsize` | 0 | 4 | Maximum team size |
 | `timelimit` | 0 | 20 | Time limit in minutes |
 
-🔼 Go to [top](https://github.com/euroquake/tree/main/factories#top)  
+🔼 Go to [top](https://github.com/euroquake/quakelive/tree/main/factories#top)  
 
 
 ### Additional Entry Command Info
