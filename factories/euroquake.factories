@@ -51,7 +51,12 @@
             "roundtimelimit": "0",
             "sv_warmupReadyPercentage": "1",
             "teamsize": "4",
-            "timelimit": "20"
+            "timelimit": "20",
+            "pmove_BunnyHop": "0",
+            "pmove_CrouchStepJump": "0",
+            "pmove_JumpTimeDeltaMin": "50",
+            "pmove_WaterSwimScale": "0.5f",
+            "pmove_WaterWadeScale": "0.75f"
         }
     },
     {
