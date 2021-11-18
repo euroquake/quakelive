@@ -103,9 +103,9 @@
 | `timelimit` | 0 | 20 | Time limit in minutes |
 | `pmove_BunnyHop` | 1 | 0 | UPS accel without strafe. Introduced to help "beginners move quicker" |
 | `pmove_CrouchStepJump` | 1 | 0 | Toggle stepping when players crouch |
-| `pmove_JumpTimeDeltaMin` | 100 | 50 | VQ3 Jumping |
-| `pmove_WaterSwimScale` | ? | 0.5f | ? |
-| `pmove_WaterWadeScale` | ? | 0.75f | ? |
+| `pmove_JumpTimeDeltaMin` | 100.0f | 50 | PQL 50, VQL 100.0f |
+| `pmove_WaterSwimScale` | 0.6f | 0.5f | PQL 0.5f, VQL 0.6f |
+| `pmove_WaterWadeScale` | 0.8f | 0.75f | PQL 0.75f, VQL 0.8f |
    
 🔼 Go to [top](https://github.com/euroquake/quakelive/tree/main/factories#top)  
 
