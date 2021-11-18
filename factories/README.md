@@ -101,7 +101,7 @@
 | `sv_warmupReadyPercentage` | 0.51 | 1 | Percentile of players ready before auto-start |
 | `teamsize` | 0 | 4 | Maximum team size |
 | `timelimit` | 0 | 20 | Time limit in minutes |
-| `pmove_BunnyHop` | 1 | 0 | UPS Acceleration without strafe. Introduced to help "beginners move quicker" |
+| `pmove_BunnyHop` | 1 | 0 | UPS accel without strafe. Introduced to help "beginners move quicker" |
 | `pmove_CrouchStepJump` | 1 | 0 | Toggle stepping when players crouch |
 | `pmove_JumpTimeDeltaMin` | 100 | 50 | VQ3 Jumping |
 | `pmove_WaterSwimScale` | ? | 0.5f | ? |
