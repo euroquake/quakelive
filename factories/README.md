@@ -68,6 +68,11 @@
 "sv_warmupReadyPercentage": "1",
 "teamsize": "4",
 "timelimit": "20"
+"pmove_BunnyHop": "0",
+"pmove_CrouchStepJump": "0",
+"pmove_JumpTimeDeltaMin": "50",
+"pmove_WaterSwimScale": "0.5f",
+"pmove_WaterWadeScale": "0.75f"
 ```
 #### Factory Info
 | Entry Command | QL Value | eQ Value | Description |
@@ -96,7 +101,12 @@
 | `sv_warmupReadyPercentage` | 0.51 | 1 | Percentile of players ready before auto-start |
 | `teamsize` | 0 | 4 | Maximum team size |
 | `timelimit` | 0 | 20 | Time limit in minutes |
-
+| `pmove_BunnyHop` | 1 | 0 | UPS Acceleration without strafe. Introduced to help "beginners move quicker" |
+| `pmove_CrouchStepJump` | 1 | 0 | Toggle stepping when players crouch |
+| `pmove_JumpTimeDeltaMin` | 100 | 50 | VQ3 Jumping |
+| `pmove_WaterSwimScale` | ? | 0.5f | ? |
+| `pmove_WaterWadeScale` | ? | 0.75f | ? |
+   
 🔼 Go to [top](https://github.com/euroquake/quakelive/tree/main/factories#top)  
 
 ### Instagib Domination
