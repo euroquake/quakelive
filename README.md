@@ -5,6 +5,6 @@
 - [x] — 📄 [mappool.txt](https://github.com/euroquake/quakelive/blob/main/mappools/mappool.txt)
 - [x] — 📄 [workshop.txt](https://github.com/euroquake/quakelive/blob/main/mappools/workshop.txt)
 - [ ] 📁 [minqlx-plugins](https://github.com/euroquake/quakelive/tree/main/minqlx-plugins)
-- [ ] 📄 eqconsole.py
-- [ ] 📄 Access.txt
-- [ ] 📄 ...
+- [ ] — 📄 eqconsole.py
+- [ ] — 📄 Access.txt
+- [ ] — 📄 ...
